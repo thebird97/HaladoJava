@@ -1,6 +1,10 @@
-public class Main {
+import static java.lang.System.*;
 
+public class Main {
+    public static int mvalue(){
+        return 4;
+    }
     public static void main(String[] args) {
-        System.out.println("hello");
+        out.println("a");
     }
 }
